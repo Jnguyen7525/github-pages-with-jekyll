@@ -1,5 +1,5 @@
 Hey
 ---
-title: "YOUR-TITLE"
+title: hello
 date: YYYY-MM-DD
 ---
